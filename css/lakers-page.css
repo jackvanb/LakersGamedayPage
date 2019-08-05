@@ -1,0 +1,40 @@
+body {
+  padding-top: 56px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.carousel-item {
+  height: 60vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.embed-responsive {
+  margin-bottom: 10pt;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: white;
+}
+
+i {
+  margin-left: 10pt;
+}
+a {
+  color: #f8f9fa;
+}
+
+.btn-secondary {
+  background-color: #552084;
+  border-color: #552084;
+  color: #fdba21;
+  font-weight: bold;
+}
+
+.bg-dark {
+  background-color: black !important;
+}
